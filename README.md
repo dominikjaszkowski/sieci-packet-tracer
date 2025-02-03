@@ -1,1 +1,1 @@
-# sieci-packet-tracer
+# Projekt z sieci rozwiązany w Cisco Packet Tracer
