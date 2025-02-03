@@ -1,2 +1,3 @@
 # projekt logiczny przewodowych sieci lokalnych w Cisco Packet Tracer
-![projekt](https://github.com/user-attachments/assets/f67f44bf-6865-4f46-878a-62ce06de1273)
+![image](https://github.com/user-attachments/assets/24732a93-440d-4879-969d-124126840394)
+
